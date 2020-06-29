@@ -84,34 +84,4 @@ hr{
   color: grey;
 }
 
-p1:before{
-  font-family:'FontAwesome';
-  content:"\f083";
-  font-size: 150px;
-  display: block;
-  text-align: center;
-}
 
-p2:before{
-  font-family:'FontAwesome';
-  content:"\f0c0";
-  font-size: 150px;
-  display: block;
-  text-align: center;
-}
-
-p3:before{
-  font-family:'FontAwesome';
-  content:"\f072";
-  font-size: 150px;
-  display: block;
-  text-align: center;
-}
-
-p4:before{
-  font-family:'FontAwesome';
-  content:"\f049";
-  font-size: 150px;
-  display: block;
-  text-align: center;
-}
